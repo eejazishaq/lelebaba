@@ -11,8 +11,6 @@ E-commerce Application with Ionic3
 
 <img src="https://user-images.githubusercontent.com/18456688/42818992-e7bf89c0-89ef-11e8-9281-038a46ab09b7.jpg" height="700" width="400">
 
-<img src="https://user-images.githubusercontent.com/18456688/42818993-e7edb732-89ef-11e8-891a-9af025c2bf85.jpg" height="700" width="400">
-
 <img src="https://user-images.githubusercontent.com/18456688/42818995-e821e8e0-89ef-11e8-8d11-802abc277f2b.jpg" height="700" width="400">
 
 <img src="https://user-images.githubusercontent.com/18456688/42818997-e8518bcc-89ef-11e8-94e2-482ae0c8caf7.jpg" height="700" width="400">
